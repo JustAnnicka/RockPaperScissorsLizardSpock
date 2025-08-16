@@ -1,8 +1,8 @@
-rules = "Paper beats Rock and Spock\n" \
+rules = "\nPaper beats Rock and Spock\n" \
 "Scissors beats Paper and Lizard\n" \
 "Rock beats Scissors and Lizard\n" \
 "Lizard beats Paper and Spock\n" \
-"Spock beats Rock and Scissors"
+"Spock beats Rock and Scissors\n"
 
 rock = '''
        ,--.--._
